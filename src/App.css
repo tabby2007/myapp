@@ -43,3 +43,12 @@
 .Secondcomponent{
   background-color: blue;
 }
+.Thirdcomponent{
+  background-color: brown;
+  color: aquamarine;
+  padding: 30px;
+}
+.Fourthcomponent{
+  background-color: rgb(215, 250, 222);
+  color: black;
+}

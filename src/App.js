@@ -1,6 +1,9 @@
 import './App.css';
+import Fifthcomponent from './components/Fifthcomponent';
 import Firstcomponent from './components/Firstcomponent';
+import Fourthcomponent from './components/Fourthcomponent';
 import Secondcomponent from './components/Secondcomponent';
+import Thirdcomponent from './components/Thirdcomponent';
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
       {/*Below we render/display/show our components */}
       <Firstcomponent/>
       <Secondcomponent/>
+      <Thirdcomponent/>
+      <Fourthcomponent/>
+      <Fifthcomponent/>
     </div>
   );
 }
