@@ -56,3 +56,26 @@
   background-color: black;
   color: crimson;
 }
+.Notfound{
+  font-size: 50px;
+  color: red;
+  font-weight: 900;
+}
+
+nav{
+  background-color: aqua;
+  padding: 20px;
+}
+.navlinks{
+  margin: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: rgb(165, 42, 99);
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+.navlinks:hover{
+  background-color: burlywood;
+  color: white;
+}
